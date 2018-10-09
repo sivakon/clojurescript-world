@@ -56,7 +56,6 @@ Need to change how CIDER starts a `cljs-lein-repl`. Look at the `.emacs` above t
 ```
 	$ clojure -A:rebel
 ```
-
 Taken from [here](https://github.com/bhauman/rebel-readline)
 
 ## License
