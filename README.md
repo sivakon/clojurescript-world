@@ -47,7 +47,7 @@ Need to change how CIDER starts a `cljs-lein-repl`. Look at the `.emacs` above t
 
 - Look at the `dev/user.clj` to see the list of the tasks to execute in the nREPL
 
-- `M-x cider-jack-in-cljs RET`. This will startup the nREPL server
+- `M-x cider-jack-in-cljs RET`. This will startup the nREPL server. `(fig-start)` will start with figwheel. After it is started up, we can use `(cljs-repl)` to enable clojurescript repl, and interactively play with the code from Emacs
 
 ## Additional optional setup
 
@@ -56,6 +56,7 @@ Need to change how CIDER starts a `cljs-lein-repl`. Look at the `.emacs` above t
 ```
 	$ clojure -A:rebel
 ```
+
 Taken from [here](https://github.com/bhauman/rebel-readline)
 
 ## License
