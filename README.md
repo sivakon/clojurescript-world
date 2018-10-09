@@ -4,6 +4,10 @@
 - https://rigsomelight.com/figwheel-main-template/
 - https://cider.readthedocs.io/en/latest/clojurescript/#using-figwheel-main
 
+Figwheel Main is a complete re-write of Figwheel and represents the latest and greatest version of Figwheel. It works great with Leiningen or the new Clojure CLI Tools.
+
+So head over to Figwheel Main to give it a try.
+
 Setup the environment for Clojurescript working environment with Emacs, CIDER and figwheel
 
 ## Setup from terminal
