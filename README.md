@@ -1,6 +1,8 @@
-# Hello there!
+# How to start with Clojurescript?
 
-How to setup the environment for Clojurescript working environment with Emacs, CIDER and figwheel
+(Note: there is an alternative https://figwheel.org/, which has the project based on `deps.edn`
+
+Setup the environment for Clojurescript working environment with Emacs, CIDER and figwheel
 
 ## Setup from terminal
 
