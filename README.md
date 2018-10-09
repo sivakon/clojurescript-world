@@ -1,6 +1,8 @@
 # How to start with Clojurescript?
 
-(Note: there is an alternative https://figwheel.org/, which has the project based on `deps.edn`
+(Note: there is an alternative https://figwheel.org/, which has the project based on [figwheel-main](https://github.com/bhauman/figwheel-main)) - WIP creating a project based on `figwheel.main`. To do this, follow 
+- https://rigsomelight.com/figwheel-main-template/
+- https://cider.readthedocs.io/en/latest/clojurescript/#using-figwheel-main
 
 Setup the environment for Clojurescript working environment with Emacs, CIDER and figwheel
 
